@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class MapManager : MonoBehaviour
 {
-    public Vector2 MapSize = Vector2.zero;
-    public GameObject TileSource = null;
-    List<Tile> Tilelist = new List<Tile> ();
+    [SerializeField] Vector2 MapSize = Vector2.zero;
+    [SerializeField] GameObject TileSource = null;
+    [SerializeField]List<Tile> Tilelist = new List<Tile> ();
     public void CreateMap()
     {
         foreach(Tile scp in Tilelist)
@@ -30,6 +30,15 @@ public class MapManager : MonoBehaviour
         
     }
 
+    public void CreateTower(Transform tr)
+    {
+        tr.transform.GetComponent<Tile>()?.CreateTower();
+    }
+
+    public void DestroyTower(Transform tr)
+    {
+        tr.transform.GetComponent<Tile>()?.DestoryTower();
+    }
     // Start is called before the first frame update
     void Start()
     {

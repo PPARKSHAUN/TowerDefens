@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
+    public GameObject TowerSource = null;
     [SerializeField]int TileNumber = 0;
+    Tower myTower = null;
 
     public void Intialize(int tileNum, Vector3 pos)
     {
@@ -12,14 +14,16 @@ public class Tile : MonoBehaviour
         this.transform.localPosition = pos;
     }
     // Start is called before the first frame update
-    void Start()
+   public void CreateTower()
     {
-        
+        if (myTower != null) return;
+        myTower = Instantiate(TowerSource, this.transform).GetComponent<Tower>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void DestoryTower()
     {
-        
+        if (myTower == null) return;
+        Destroy(myTower.gameObject);
+        myTower = null;
     }
 }

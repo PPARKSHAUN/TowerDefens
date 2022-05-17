@@ -108,3 +108,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
+  TileNumber: 0
