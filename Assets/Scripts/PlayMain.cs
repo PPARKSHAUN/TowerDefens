@@ -1,10 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class PlayMain : MonoBehaviour
 {
     public MapManager myMap=null;
+    public WaveManager myWave = null;
+
+  
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +25,7 @@ public class PlayMain : MonoBehaviour
             if(Physics.Raycast(ray,out RaycastHit hit,999.0f,1<<LayerMask.NameToLayer("Tile")))
             {
                 myMap.CreateTower(hit.transform);
+                
             }
         }
         if(Input.GetMouseButtonDown(1))
@@ -33,4 +38,6 @@ public class PlayMain : MonoBehaviour
             }
         }
     }
+
+    
 }

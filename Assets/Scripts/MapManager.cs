@@ -32,6 +32,7 @@ public class MapManager : MonoBehaviour
 
     public void CreateTower(Transform tr)
     {
+        
         tr.transform.GetComponent<Tile>()?.CreateTower();
     }
 
