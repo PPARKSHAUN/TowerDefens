@@ -5,7 +5,6 @@ using UnityEngine.AI;
 
 public class AIProperty : MonoBehaviour
 {
-
     #region Component
     NavMeshAgent _navAgent = null;
     protected NavMeshAgent myNavAgent
@@ -15,12 +14,11 @@ public class AIProperty : MonoBehaviour
             if(_navAgent == null)
             {
                 _navAgent = this.GetComponent<NavMeshAgent>();
-
             }
             return _navAgent;
         }
     }
-    float? CurHP = null;
+
     Animator _anim = null;
     protected Animator myAnim
     {
@@ -28,24 +26,18 @@ public class AIProperty : MonoBehaviour
         {
             if(_anim == null)
             {
-               _anim= this.GetComponentInChildren<Animator>();
+               _anim = this.GetComponentInChildren<Animator>();
             }
             return _anim;
         }
     }
     #endregion
-    [SerializeField]MonsterData _data = null;
+    [SerializeField] MonsterData _data = null;
     protected MonsterData myData
     {
-        get => _data;
-        /*
-          get
-        {
-        return _data;
-        } 이걸 생략한게 위에거 
-        */
-        
+        get => _data;        
     }
+    float? CurHP = null;
     protected bool UpdateHP(float data)
     {
         if(CurHP == null)

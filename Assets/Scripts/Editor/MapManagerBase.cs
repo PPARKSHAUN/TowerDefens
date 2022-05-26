@@ -15,15 +15,14 @@ public class MapManagerBase : Editor
         _mapSize = serializedObject.FindProperty("MapSize");
         _tileSource = serializedObject.FindProperty("TileSource");
     }
-
-  public override void OnInspectorGUI()
-  {
-        //base.OnInspectorGUI();
+    public override void OnInspectorGUI()
+    {
+        //base.OnInspectorGUI();        
+        EditorGUILayout.PropertyField(_tileSource);
         EditorGUILayout.PropertyField(_mapSize);
         if(serializedObject.ApplyModifiedProperties())
         {
             _scp.CreateMap();
-        }
-        EditorGUILayout.PropertyField(_tileSource);
-  }
+        }        
+    }
 }

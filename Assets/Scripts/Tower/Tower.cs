@@ -2,43 +2,39 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public  abstract class Tower : MonoBehaviour
+public abstract class Tower : MonoBehaviour
 {
     public enum State
     {
-        CREATE,WAIT,ATTACK
+        CREATE, WAIT, ATTACK
     }
     public State myState = State.CREATE;
     [SerializeField] protected Monster _target = null;
     [SerializeField] protected List<Monster> Monsters = new List<Monster>();
-    [SerializeField] protected TowerDATA myData = null;
+    [SerializeField] protected TowerData myData = null;
     public Transform myMuzzle = null;
     public Transform myTurret = null;
     public GameObject BulletSource = null;
     protected float playTime = 0.0f;
     protected float attackDelay = 1.0f;
-    protected int mylevel = 1;
-    protected abstract void OnAttack();
+    protected int myLevel = 1;
 
+    protected abstract void OnAttack();
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
-     void Update()
-    {
-      
+    void Update()
+    {        
     }
-
 
     void ChangeState(State s)
     {
         if (myState == s) return;
-
         myState = s;
-
         switch(myState)
         {
             case State.CREATE:
@@ -46,7 +42,6 @@ public  abstract class Tower : MonoBehaviour
             case State.WAIT:
                 break;
             case State.ATTACK:
-
                 break;
         }
     }
@@ -66,23 +61,23 @@ public  abstract class Tower : MonoBehaviour
                     ChangeState(State.WAIT);
                     return;
                 }
-                OnAttack();
-                
-                
+                OnAttack();                                
                 break;
         }
     }
 
-    protected void OnFire(Transform target =null)
+    protected void OnFire(Transform target = null)
     {
-        Projectile bullet = Instantiate(BulletSource, myMuzzle.position,myMuzzle.rotation).GetComponent<Projectile>();
-        bullet.OnFire(myData.GetDamage(mylevel -1), target);
+        if (target == null) return;
+        Projectile bullet = Instantiate(BulletSource, myMuzzle.position, myMuzzle.rotation).GetComponent<Projectile>();
+        bullet.OnFire(myData.GetDamage(myLevel - 1), target);
     }
+
     Monster FindTarget()
     {
         float Min = 999.0f;
         int? Select = null;
-        for(int i = 0; i<Monsters.Count;)
+        for(int i = 0; i < Monsters.Count;)
         {
             if (Monsters[i].IsLive())
             {
@@ -96,11 +91,11 @@ public  abstract class Tower : MonoBehaviour
             }
             else
             {
-                Monsters.RemoveAt(i);
-                
+                Monsters.RemoveAt(i);                
             }
         }
-        if(Select !=null)
+
+        if(Select != null)
         {
             return Monsters[Select.Value];
         }
@@ -110,11 +105,11 @@ public  abstract class Tower : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.layer == LayerMask.NameToLayer("Monster"))
+        if(other.gameObject.layer == LayerMask.NameToLayer("Monster"))
         {
             Monster scp = other.gameObject.GetComponent<Monster>();
             Monsters.Add(scp);
-            if (_target == null)
+            if(_target == null)
             {
                 _target = scp;
                 ChangeState(State.ATTACK);
@@ -138,5 +133,11 @@ public  abstract class Tower : MonoBehaviour
                 }
             }
         }
+    }
+
+    protected void LookAtTarget()
+    {
+        myTurret.rotation = Quaternion.Slerp(myTurret.rotation,
+          Quaternion.LookRotation(_target.transform.position - myTurret.position), Time.deltaTime * 10.0f);
     }
 }

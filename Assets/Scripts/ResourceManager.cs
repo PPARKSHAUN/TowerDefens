@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class ResourceManager : MonoBehaviour
 {
+    #region Instance
     static ResourceManager _inst = null;
-
     public static ResourceManager Inst
     {
         get => _inst;
     }
-
-    public GameObject[] TowerSources;
-    
+    private void Awake()
+    {
+        _inst = this;
+    }
+    #endregion
+    public GameObject[] TowerSources;    
 }

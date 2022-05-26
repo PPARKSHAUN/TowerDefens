@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Bullet : Projectile
-{
-   
+{    
     // Start is called before the first frame update
     void Start()
     {
@@ -13,8 +12,7 @@ public class Bullet : Projectile
 
     // Update is called once per frame
     void Update()
-    {
-        
+    {        
     }
 
     private void FixedUpdate()
@@ -28,21 +26,20 @@ public class Bullet : Projectile
                 OnAttack(hit.transform.GetComponent<Monster>(),hit.point);
             }
 
-            this.transform.Translate(this.transform.forward * Speed * Time.deltaTime, Space.World);
+            this.transform.Translate(this.transform.forward * delta, Space.World);
         }
     }
 
-    public override void OnFire(float damge,Transform target)
+    public override void OnFire(float damage, Transform target)
     {
         Move = true;
-        Damage = damge;
+        Damage = damage;
     }
-    void OnAttack(Monster mon,Vector3 hitpos)
-    {
-        if (!mon.IsLive()) return;
+
+    void OnAttack(Monster mon,Vector3 hitPos)
+    {        
         mon?.OnDamage(Damage);
-        Instantiate(effectSource, hitpos, Quaternion.identity);
+        Instantiate(effectSource, hitPos, Quaternion.identity);
         Destroy(this.gameObject);
-    }
-    
+    }    
 }

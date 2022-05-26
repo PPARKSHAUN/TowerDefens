@@ -3,25 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Events;
-public class TestMapmanager : MonoBehaviour
+
+public class TestMapManager : MonoBehaviour
 {
-    static TestMapmanager _ins = null;
-    NavMeshPath myPath = null;
-    public static TestMapmanager Ins
+    static TestMapManager _ins = null;
+    public static TestMapManager Ins
     {
         get
         {
-            if(_ins ==null)
+            if(_ins == null)
             {
-                _ins = FindObjectOfType<TestMapmanager>();
+                _ins = FindObjectOfType<TestMapManager>();
             }
             return _ins;
         }
     }
+    public GameObject TestSource = null;
     public Transform StartPoint;
     public Transform DestPoint;
     public Transform myGrid;
-    public GameObject TestSource = null;
+    NavMeshPath myPath = null;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,17 +33,18 @@ public class TestMapmanager : MonoBehaviour
     void Update()
     {
         
-    }
-    public void CreateTestTower(Vector3 pos,UnityAction<UnityAction> Success)
+    }  
+
+    public void CreateTestTower(Vector3 pos, UnityAction<UnityAction> Success)
     {
-        StartCoroutine(CheckingPath( pos, Success));
+        StartCoroutine(CheckingPath(pos, Success));
     }
-    IEnumerator CheckingPath( Vector3 pos,UnityAction<UnityAction> Success)
+    IEnumerator CheckingPath(Vector3 pos, UnityAction<UnityAction> Success)
     {
-        GameObject obj = Instantiate(TestSource, pos, Quaternion.identity,myGrid);
+        GameObject obj = Instantiate(TestSource, pos, Quaternion.identity, myGrid);
         yield return new WaitForSeconds(0.1f);
 
-        NavMesh.CalculatePath(StartPoint.position, DestPoint.position, 1<<NavMesh.GetAreaFromName("testwalers"), myPath);
+        NavMesh.CalculatePath(StartPoint.position, DestPoint.position, 1 << NavMesh.GetAreaFromName("TestWalkable"), myPath);
         if (myPath.status == NavMeshPathStatus.PathComplete)
         {
             Success?.Invoke(()=>Destroy(obj));
@@ -52,5 +54,5 @@ public class TestMapmanager : MonoBehaviour
             Destroy(obj);
         }
     }
-}
 
+}

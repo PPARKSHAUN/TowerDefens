@@ -5,8 +5,7 @@ using UnityEngine;
 public class GameInfoUI : MonoBehaviour
 {
     public TMPro.TMP_Text scoreLabel = null;
-
-    public TMPro.TMP_Text lifeLabel = null;
+    public TMPro.TMP_Text lifeLabel = null;    
 
     // Start is called before the first frame update
     void Start()

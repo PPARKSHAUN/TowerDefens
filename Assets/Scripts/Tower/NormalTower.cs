@@ -13,18 +13,17 @@ public class NormalTower : Tower
     // Update is called once per frame
     void Update()
     {
-      StateProcess();
+        StateProcess();
     }
-
+    
     protected override void OnAttack()
     {
-       
-        myTurret.rotation = Quaternion.Slerp(myTurret.rotation, Quaternion.LookRotation(_target.transform.position - myTurret.position), Time.deltaTime * 10f);
+        LookAtTarget();
         playTime += Time.deltaTime;
         if (playTime >= attackDelay)
         {
             playTime = 0.0f;
             OnFire();
         }
-    }
+    }    
 }

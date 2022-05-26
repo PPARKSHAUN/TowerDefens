@@ -7,8 +7,7 @@ public class WaveManager : MonoBehaviour
 {
     public enum State
     {
-        CREATE,PLAY,END
-
+        CREATE, PLAY, END
     }
     public State myState = State.CREATE;
     public WaveData[] Wavelist;
@@ -18,32 +17,31 @@ public class WaveManager : MonoBehaviour
 
     public GameObject MonsterSource;
     public Transform MonsterGrid;
-    [SerializeField]List<Monster> Monsterlist = new List<Monster>();
-    [SerializeField]float timeGap = 0.0f;
+    List<Monster> Monsterlist = new List<Monster>();
+
+    [SerializeField] float timeGap = 0.0f;
     float playTime = 0.0f;
-    int Curindex = 0;
+    int CurIndex = 0;
     UnityAction<int> goalAction = null;
     UnityAction<int> dieAction = null;
     // Start is called before the first frame update
     void Start()
     {
-        Curindex = 0;
-        timeGap = Wavelist[CurWave].GetTimeGap();
-       
-    }
-
-    public void OnPlay(UnityAction<int> goal,UnityAction<int> die)
-    {
-        dieAction = die;
-        goalAction = goal;
-        ChangeState(State.PLAY);
-
+        CurIndex = 0;
+        timeGap = Wavelist[CurWave].GetTimeGap();        
     }
 
     // Update is called once per frame
     void Update()
     {
         StateProcess();
+    }
+
+    public void OnPlay(UnityAction<int> goal, UnityAction<int> die)
+    {
+        dieAction = die;
+        goalAction = goal;
+        ChangeState(State.PLAY);
     }
 
     void ChangeState(State s)
@@ -54,11 +52,10 @@ public class WaveManager : MonoBehaviour
         {
             case State.CREATE:
                 break;
-                case State.PLAY:
+            case State.PLAY:
                 break;
             case State.END:
                 break;
-
         }
     }
 
@@ -73,15 +70,14 @@ public class WaveManager : MonoBehaviour
                 if(playTime >= timeGap)
                 {
                     playTime = 0.0f;
-                    CreateMonster(Wavelist[CurWave].GetMonster(Curindex++));
+                    CreateMonster(Wavelist[CurWave].GetMonster(CurIndex++));
                 }
                 break;
             case State.END:
                 break;
-
         }
-
     }
+
     void CreateMonster(MonsterType mon)
     {
         switch(mon)
@@ -93,15 +89,14 @@ public class WaveManager : MonoBehaviour
                 }
                 else
                 {
-                    Curindex = 0;
-                    playTime=timeGap = Wavelist[CurWave].GetTimeGap();
+                    CurIndex = 0;
+                    playTime = timeGap = Wavelist[CurWave].GetTimeGap();                    
                 }
                 break;
             case MonsterType.DEVIL:
                 Monsterlist.Add(Instantiate(MonsterSource, StartPoint.position, StartPoint.rotation, MonsterGrid).GetComponent<Monster>());
-                Monsterlist[Monsterlist.Count - 1].SetTarget(DestPoint,goalAction,dieAction);
+                Monsterlist[Monsterlist.Count - 1].SetTarget(DestPoint, goalAction, dieAction);
                 break;
-        }
-        
+        }                
     }
 }
