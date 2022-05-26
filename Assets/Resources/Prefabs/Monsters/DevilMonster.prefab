@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -8190655456714361737}
   - component: {fileID: 3459403367766379686}
   m_Layer: 7
-  m_Name: Monster
+  m_Name: DevilMonster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60,6 +60,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e37bb1617afc83f47abab5ecec0c99a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _data: {fileID: 11400000, guid: 507491aeabb89eb44a19c6c01652cc6e, type: 2}
 --- !u!195 &-8190655456714361737
 NavMeshAgent:
   m_ObjectHideFlags: 0

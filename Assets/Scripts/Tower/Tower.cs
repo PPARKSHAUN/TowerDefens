@@ -2,20 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Tower : MonoBehaviour
+public  abstract class Tower : MonoBehaviour
 {
     public enum State
     {
         CREATE,WAIT,ATTACK
     }
     public State myState = State.CREATE;
-    [SerializeField] Monster _target = null;
-    [SerializeField] List<Monster> Monsters = new List<Monster>();
+    [SerializeField] protected Monster _target = null;
+    [SerializeField] protected List<Monster> Monsters = new List<Monster>();
+    [SerializeField] protected TowerDATA myData = null;
     public Transform myMuzzle = null;
     public Transform myTurret = null;
     public GameObject BulletSource = null;
-    float playTime = 0.0f;
-    float attackDelay = 1.0f;
+    protected float playTime = 0.0f;
+    protected float attackDelay = 1.0f;
+    protected int mylevel = 1;
+    protected abstract void OnAttack();
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,9 +27,9 @@ public class Tower : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+     void Update()
     {
-        StateProcess();
+      
     }
 
 
@@ -47,7 +51,7 @@ public class Tower : MonoBehaviour
         }
     }
 
-    void StateProcess()
+    protected void StateProcess()
     {
         switch (myState)
         {
@@ -56,34 +60,44 @@ public class Tower : MonoBehaviour
             case State.WAIT:
                 break;
             case State.ATTACK:
-                myTurret.LookAt(_target.transform);
-                playTime += Time.deltaTime;
-                if(playTime >= attackDelay)
+                if (!_target.IsLive()) _target = FindTarget();
+                if (_target == null)
                 {
-                    playTime = 0.0f;
-                    OnFire();
+                    ChangeState(State.WAIT);
+                    return;
                 }
+                OnAttack();
+                
                 
                 break;
         }
     }
 
-    void OnFire()
+    protected void OnFire(Transform target =null)
     {
-        Bullet bullet = Instantiate(BulletSource, myMuzzle.position,myMuzzle.rotation).GetComponent<Bullet>();
-        bullet.OnFire();
+        Projectile bullet = Instantiate(BulletSource, myMuzzle.position,myMuzzle.rotation).GetComponent<Projectile>();
+        bullet.OnFire(myData.GetDamage(mylevel -1), target);
     }
     Monster FindTarget()
     {
         float Min = 999.0f;
         int? Select = null;
-        for(int i = 0; i<Monsters.Count;i++)
+        for(int i = 0; i<Monsters.Count;)
         {
-            float dist = Vector3.Distance(this.transform.position, Monsters[i].transform.position);
-            if(dist<Min)
+            if (Monsters[i].IsLive())
             {
-                Min = dist;
-                Select = i;
+                float dist = Vector3.Distance(this.transform.position, Monsters[i].transform.position);
+                if (dist < Min)
+                {
+                    Min = dist;
+                    Select = i;
+                }
+                ++i;
+            }
+            else
+            {
+                Monsters.RemoveAt(i);
+                
             }
         }
         if(Select !=null)

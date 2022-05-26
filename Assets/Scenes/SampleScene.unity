@@ -169,7 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 32
 --- !u!65 &2238255
 BoxCollider:
@@ -279,7 +278,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 63
 --- !u!65 &5512770
 BoxCollider:
@@ -389,7 +387,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 56
 --- !u!65 &9738482
 BoxCollider:
@@ -499,7 +496,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 10
 --- !u!65 &26849177
 BoxCollider:
@@ -609,7 +605,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 58
 --- !u!65 &35893700
 BoxCollider:
@@ -719,7 +714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 14
 --- !u!65 &60013827
 BoxCollider:
@@ -829,7 +823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 73
 --- !u!65 &64551733
 BoxCollider:
@@ -939,7 +932,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 11
 --- !u!65 &70638506
 BoxCollider:
@@ -1049,7 +1041,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 75
 --- !u!65 &73774440
 BoxCollider:
@@ -1159,7 +1150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 37
 --- !u!65 &93721073
 BoxCollider:
@@ -1415,7 +1405,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 4
 --- !u!65 &106533529
 BoxCollider:
@@ -1525,7 +1514,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 5
 --- !u!65 &145423783
 BoxCollider:
@@ -1635,7 +1623,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 79
 --- !u!65 &174290543
 BoxCollider:
@@ -1745,7 +1732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 13
 --- !u!65 &178986502
 BoxCollider:
@@ -1809,6 +1795,43 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 178986499}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &182664476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 182664477}
+  m_Layer: 5
+  m_Name: Score
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &182664477
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182664476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1433562591}
+  - {fileID: 969601989}
+  m_Father: {fileID: 691811086}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 150, y: 0}
+  m_SizeDelta: {x: 300, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &191835999
 GameObject:
   m_ObjectHideFlags: 0
@@ -1855,7 +1878,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 1
 --- !u!65 &191836002
 BoxCollider:
@@ -1965,7 +1987,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 88
 --- !u!65 &197107318
 BoxCollider:
@@ -2075,7 +2096,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 39
 --- !u!65 &229931762
 BoxCollider:
@@ -2185,7 +2205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 57
 --- !u!65 &239428881
 BoxCollider:
@@ -2249,6 +2268,106 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 239428878}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &242217481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 242217485}
+  - component: {fileID: 242217484}
+  - component: {fileID: 242217483}
+  - component: {fileID: 242217482}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &242217482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242217481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &242217483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242217481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 1024, y: 768}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &242217484
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242217481}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &242217485
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242217481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 691811086}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &242345977
 GameObject:
   m_ObjectHideFlags: 0
@@ -2295,7 +2414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 96
 --- !u!65 &242345980
 BoxCollider:
@@ -2405,7 +2523,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 47
 --- !u!65 &244113092
 BoxCollider:
@@ -2515,7 +2632,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 49
 --- !u!65 &244788457
 BoxCollider:
@@ -2682,7 +2798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 56
 --- !u!65 &251886503
 BoxCollider:
@@ -2792,7 +2907,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 44
 --- !u!65 &260307734
 BoxCollider:
@@ -2856,6 +2970,72 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 260307731}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &262266921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 262266924}
+  - component: {fileID: 262266923}
+  - component: {fileID: 262266922}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &262266922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262266921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &262266923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262266921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &262266924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262266921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &272372524
 GameObject:
   m_ObjectHideFlags: 0
@@ -2902,7 +3082,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 87
 --- !u!65 &272372527
 BoxCollider:
@@ -3012,7 +3191,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 2
 --- !u!65 &279080022
 BoxCollider:
@@ -3122,7 +3300,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 25
 --- !u!65 &282449493
 BoxCollider:
@@ -3232,7 +3409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 7
 --- !u!65 &294874506
 BoxCollider:
@@ -3342,7 +3518,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 25
 --- !u!65 &297998275
 BoxCollider:
@@ -3452,7 +3627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 0
 --- !u!65 &302719675
 BoxCollider:
@@ -3593,7 +3767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 99
 --- !u!65 &319355383
 BoxCollider:
@@ -3703,7 +3876,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 74
 --- !u!65 &321217965
 BoxCollider:
@@ -3813,7 +3985,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 78
 --- !u!65 &334062190
 BoxCollider:
@@ -3923,7 +4094,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 26
 --- !u!65 &340126582
 BoxCollider:
@@ -4033,7 +4203,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 45
 --- !u!65 &343513555
 BoxCollider:
@@ -4143,7 +4312,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 50
 --- !u!65 &343855459
 BoxCollider:
@@ -4253,7 +4421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 28
 --- !u!65 &354582601
 BoxCollider:
@@ -4363,7 +4530,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 97
 --- !u!65 &369204375
 BoxCollider:
@@ -4473,7 +4639,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 89
 --- !u!65 &381682104
 BoxCollider:
@@ -4583,7 +4748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 66
 --- !u!65 &388622031
 BoxCollider:
@@ -4693,7 +4857,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 52
 --- !u!65 &403288725
 BoxCollider:
@@ -4803,7 +4966,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 38
 --- !u!65 &404199578
 BoxCollider:
@@ -4913,7 +5075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 23
 --- !u!65 &410817192
 BoxCollider:
@@ -5023,7 +5184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 90
 --- !u!65 &411787153
 BoxCollider:
@@ -5133,7 +5293,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 61
 --- !u!65 &413783189
 BoxCollider:
@@ -5243,7 +5402,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 9
 --- !u!65 &420850647
 BoxCollider:
@@ -5353,7 +5511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 57
 --- !u!65 &434764348
 BoxCollider:
@@ -5463,7 +5620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 69
 --- !u!65 &437500042
 BoxCollider:
@@ -5573,7 +5729,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 44
 --- !u!65 &441661171
 BoxCollider:
@@ -5683,7 +5838,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 51
 --- !u!65 &446039584
 BoxCollider:
@@ -5793,7 +5947,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 76
 --- !u!65 &461341313
 BoxCollider:
@@ -5903,7 +6056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 74
 --- !u!65 &473459093
 BoxCollider:
@@ -6013,7 +6165,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 21
 --- !u!65 &487148390
 BoxCollider:
@@ -6123,7 +6274,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 24
 --- !u!65 &488077663
 BoxCollider:
@@ -6233,7 +6383,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 67
 --- !u!65 &497314114
 BoxCollider:
@@ -6343,7 +6492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 95
 --- !u!65 &498228517
 BoxCollider:
@@ -6453,7 +6601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 1
 --- !u!65 &528708437
 BoxCollider:
@@ -6633,7 +6780,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 63
 --- !u!65 &544734237
 BoxCollider:
@@ -6743,7 +6889,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 89
 --- !u!65 &546443476
 BoxCollider:
@@ -6923,7 +7068,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 86
 --- !u!65 &574308193
 BoxCollider:
@@ -7033,7 +7177,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 16
 --- !u!65 &577432258
 BoxCollider:
@@ -7143,7 +7286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 60
 --- !u!65 &599653698
 BoxCollider:
@@ -7253,7 +7395,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 54
 --- !u!65 &613787969
 BoxCollider:
@@ -7363,7 +7504,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 64
 --- !u!65 &622854368
 BoxCollider:
@@ -7473,7 +7613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 46
 --- !u!65 &628438592
 BoxCollider:
@@ -7583,7 +7722,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 93
 --- !u!65 &657490818
 BoxCollider:
@@ -7725,7 +7863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 23
 --- !u!65 &664305356
 BoxCollider:
@@ -7981,7 +8118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 11
 --- !u!65 &670303284
 BoxCollider:
@@ -8091,7 +8227,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 27
 --- !u!65 &675012209
 BoxCollider:
@@ -8201,7 +8336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 72
 --- !u!65 &682392173
 BoxCollider:
@@ -8343,7 +8477,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 17
 --- !u!65 &689343672
 BoxCollider:
@@ -8407,6 +8540,98 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 689343669}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &691811085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 691811086}
+  - component: {fileID: 691811088}
+  - component: {fileID: 691811087}
+  - component: {fileID: 691811089}
+  m_Layer: 5
+  m_Name: Top
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &691811086
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 691811085}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 182664477}
+  - {fileID: 1445245860}
+  m_Father: {fileID: 242217485}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -25}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &691811087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 691811085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.62352943}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &691811088
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 691811085}
+  m_CullTransparentMesh: 1
+--- !u!114 &691811089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 691811085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76bc526e7a70b344bad9542bc884814b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreLabel: {fileID: 969601990}
+  lifeLabel: {fileID: 1949490303}
 --- !u!1 &697594185
 GameObject:
   m_ObjectHideFlags: 0
@@ -8453,7 +8678,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 59
 --- !u!65 &697594188
 BoxCollider:
@@ -8656,7 +8880,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 15
 --- !u!65 &708835271
 BoxCollider:
@@ -8720,6 +8943,52 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 708835268}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &716505761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 716505763}
+  - component: {fileID: 716505762}
+  m_Layer: 0
+  m_Name: ResourceManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &716505762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716505761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f55cca1d563105e4fabcf5a8b23cf4b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TowerSources:
+  - {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
+  - {fileID: 1326093064322132, guid: a10a9e405906f124b8b2627874b718a6, type: 3}
+--- !u!4 &716505763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716505761}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 138.65399, y: 488.33334, z: -14.345352}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &719800609
 GameObject:
   m_ObjectHideFlags: 0
@@ -8766,7 +9035,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 67
 --- !u!65 &719800612
 BoxCollider:
@@ -8876,7 +9144,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 30
 --- !u!65 &722418972
 BoxCollider:
@@ -8986,7 +9253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 42
 --- !u!65 &727481152
 BoxCollider:
@@ -9096,7 +9362,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 8
 --- !u!65 &727838019
 BoxCollider:
@@ -9206,7 +9471,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 58
 --- !u!65 &728208241
 BoxCollider:
@@ -9316,7 +9580,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 55
 --- !u!65 &731174190
 BoxCollider:
@@ -9426,7 +9689,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 12
 --- !u!65 &746412357
 BoxCollider:
@@ -9536,7 +9798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 30
 --- !u!65 &750210412
 BoxCollider:
@@ -9646,7 +9907,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 45
 --- !u!65 &761548960
 BoxCollider:
@@ -9756,7 +10016,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 79
 --- !u!65 &762808049
 BoxCollider:
@@ -9866,7 +10125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 69
 --- !u!65 &764083926
 BoxCollider:
@@ -9976,7 +10234,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 87
 --- !u!65 &784472881
 BoxCollider:
@@ -10086,7 +10343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 47
 --- !u!65 &801089302
 BoxCollider:
@@ -10196,7 +10452,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 84
 --- !u!65 &809968098
 BoxCollider:
@@ -10306,7 +10561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 88
 --- !u!65 &812674516
 BoxCollider:
@@ -10421,7 +10675,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 55
 --- !u!65 &830027737
 BoxCollider:
@@ -10531,7 +10784,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 34
 --- !u!65 &845638810
 BoxCollider:
@@ -10641,7 +10893,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 22
 --- !u!65 &849265685
 BoxCollider:
@@ -10756,7 +11007,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 98
 --- !u!65 &860248756
 BoxCollider:
@@ -10866,7 +11116,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 5
 --- !u!65 &861173087
 BoxCollider:
@@ -10976,7 +11225,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 40
 --- !u!65 &869408072
 BoxCollider:
@@ -11086,7 +11334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 10
 --- !u!65 &884509147
 BoxCollider:
@@ -11196,7 +11443,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 99
 --- !u!65 &900466219
 BoxCollider:
@@ -11306,7 +11552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 37
 --- !u!65 &903503060
 BoxCollider:
@@ -11416,7 +11661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 59
 --- !u!65 &903533130
 BoxCollider:
@@ -11526,7 +11770,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 22
 --- !u!65 &925888774
 BoxCollider:
@@ -11636,7 +11879,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 96
 --- !u!65 &931789593
 BoxCollider:
@@ -11746,7 +11988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 39
 --- !u!65 &954232624
 BoxCollider:
@@ -11856,7 +12097,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 20
 --- !u!65 &959174622
 BoxCollider:
@@ -11955,8 +12195,8 @@ Camera:
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.19215688, g: 0.277971, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -12003,6 +12243,140 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &969601988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 969601989}
+  - component: {fileID: 969601991}
+  - component: {fileID: 969601990}
+  m_Layer: 5
+  m_Name: Content
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &969601989
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969601988}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 182664477}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -75, y: 0}
+  m_SizeDelta: {x: 150, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &969601990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969601988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 0
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 4
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &969601991
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969601988}
+  m_CullTransparentMesh: 1
 --- !u!1 &979262247
 GameObject:
   m_ObjectHideFlags: 0
@@ -12049,7 +12423,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 48
 --- !u!65 &979262250
 BoxCollider:
@@ -12113,6 +12486,140 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 979262247}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &992530851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 992530852}
+  - component: {fileID: 992530854}
+  - component: {fileID: 992530853}
+  m_Layer: 5
+  m_Name: Title
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &992530852
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992530851}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1445245860}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 75, y: 0}
+  m_SizeDelta: {x: 150, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &992530853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992530851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Life
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &992530854
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992530851}
+  m_CullTransparentMesh: 1
 --- !u!1 &997534954
 GameObject:
   m_ObjectHideFlags: 0
@@ -12159,7 +12666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 35
 --- !u!65 &997534957
 BoxCollider:
@@ -12269,7 +12775,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 16
 --- !u!65 &1024581681
 BoxCollider:
@@ -12411,7 +12916,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 77
 --- !u!65 &1061000948
 BoxCollider:
@@ -12521,7 +13025,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 71
 --- !u!65 &1094954300
 BoxCollider:
@@ -12631,7 +13134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 3
 --- !u!65 &1113057745
 BoxCollider:
@@ -12746,7 +13248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 84
 --- !u!65 &1118152410
 BoxCollider:
@@ -12856,7 +13357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 53
 --- !u!65 &1123404672
 BoxCollider:
@@ -12966,7 +13466,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 70
 --- !u!65 &1123502316
 BoxCollider:
@@ -13106,7 +13605,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 94
 --- !u!65 &1130490530
 BoxCollider:
@@ -13216,7 +13714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 62
 --- !u!65 &1140973580
 BoxCollider:
@@ -13326,7 +13823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 68
 --- !u!65 &1148485516
 BoxCollider:
@@ -13436,7 +13932,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 7
 --- !u!65 &1158569213
 BoxCollider:
@@ -13529,8 +14024,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0295d6d7b86d2dd47928885959df59b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myLife: 5
+  myScore: 0
+  myState: 0
   myMap: {fileID: 100154609}
   myWave: {fileID: 1573745824}
+  myInfoUI: {fileID: 691811089}
 --- !u!4 &1158709453
 Transform:
   m_ObjectHideFlags: 0
@@ -13593,7 +14092,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 21
 --- !u!65 &1159599896
 BoxCollider:
@@ -13752,7 +14250,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 6
 --- !u!65 &1181494451
 BoxCollider:
@@ -13862,7 +14359,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 98
 --- !u!65 &1188154229
 BoxCollider:
@@ -13972,7 +14468,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 64
 --- !u!65 &1201200534
 BoxCollider:
@@ -14082,7 +14577,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 61
 --- !u!65 &1201638574
 BoxCollider:
@@ -14192,7 +14686,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 35
 --- !u!65 &1217412935
 BoxCollider:
@@ -14333,7 +14826,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 70
 --- !u!65 &1270314542
 BoxCollider:
@@ -14443,7 +14935,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 76
 --- !u!65 &1318284079
 BoxCollider:
@@ -14553,7 +15044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 78
 --- !u!65 &1319551094
 BoxCollider:
@@ -14663,7 +15153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 3
 --- !u!65 &1339576525
 BoxCollider:
@@ -14773,7 +15262,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 8
 --- !u!65 &1343925203
 BoxCollider:
@@ -14883,7 +15371,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 17
 --- !u!65 &1361480379
 BoxCollider:
@@ -14993,7 +15480,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 24
 --- !u!65 &1365283528
 BoxCollider:
@@ -15103,7 +15589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 20
 --- !u!65 &1382308112
 BoxCollider:
@@ -15213,7 +15698,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 75
 --- !u!65 &1388361222
 BoxCollider:
@@ -15323,7 +15807,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 31
 --- !u!65 &1390093508
 BoxCollider:
@@ -15433,7 +15916,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 34
 --- !u!65 &1394759821
 BoxCollider:
@@ -15543,7 +16025,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 51
 --- !u!65 &1408348755
 BoxCollider:
@@ -15653,7 +16134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 6
 --- !u!65 &1417092114
 BoxCollider:
@@ -15763,7 +16243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 68
 --- !u!65 &1418720197
 BoxCollider:
@@ -15873,7 +16352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 81
 --- !u!65 &1422139256
 BoxCollider:
@@ -15937,6 +16415,177 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1422139253}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &1433562590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1433562591}
+  - component: {fileID: 1433562593}
+  - component: {fileID: 1433562592}
+  m_Layer: 5
+  m_Name: Title
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1433562591
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433562590}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 182664477}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 75, y: 0}
+  m_SizeDelta: {x: 150, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1433562592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433562590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Score
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1433562593
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433562590}
+  m_CullTransparentMesh: 1
+--- !u!1 &1445245859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1445245860}
+  m_Layer: 5
+  m_Name: Life
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1445245860
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1445245859}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 992530852}
+  - {fileID: 1949490302}
+  m_Father: {fileID: 691811086}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -150, y: 0}
+  m_SizeDelta: {x: 300, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1448497582
 GameObject:
   m_ObjectHideFlags: 0
@@ -15983,7 +16632,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 18
 --- !u!65 &1448497585
 BoxCollider:
@@ -16154,7 +16802,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 29
 --- !u!65 &1454765469
 BoxCollider:
@@ -16264,7 +16911,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 83
 --- !u!65 &1464240204
 BoxCollider:
@@ -16374,7 +17020,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 13
 --- !u!65 &1473356608
 BoxCollider:
@@ -16489,7 +17134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 53
 --- !u!65 &1489380311
 BoxCollider:
@@ -16599,7 +17243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 97
 --- !u!65 &1489596868
 BoxCollider:
@@ -16709,7 +17352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 65
 --- !u!65 &1493197736
 BoxCollider:
@@ -16819,7 +17461,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 91
 --- !u!65 &1494491370
 BoxCollider:
@@ -16929,7 +17570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 80
 --- !u!65 &1501374617
 BoxCollider:
@@ -17039,7 +17679,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 52
 --- !u!65 &1526959444
 BoxCollider:
@@ -17149,7 +17788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 66
 --- !u!65 &1551342215
 BoxCollider:
@@ -17259,7 +17897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 65
 --- !u!65 &1566619238
 BoxCollider:
@@ -17369,7 +18006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 92
 --- !u!65 &1573517136
 BoxCollider:
@@ -17479,11 +18115,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ed849d5b8f37d24386df7c45977b167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myState: 0
+  Wavelist:
+  - {fileID: 11400000, guid: 2df937f52f411074b89b895d79440058, type: 2}
+  - {fileID: 11400000, guid: 085ee28832044cb48ac00aa9bceb2dac, type: 2}
+  CurWave: 0
   StartPoint: {fileID: 688639814}
   DestPoint: {fileID: 1058758122}
   MonsterSource: {fileID: 6008862036409043282, guid: 1eb5ce1bdf2a5ca4a8664da8eda24c4f, type: 3}
   MonsterGrid: {fileID: 1125350848}
   Monsterlist: []
+  timeGap: 0
 --- !u!1 &1588042352
 GameObject:
   m_ObjectHideFlags: 0
@@ -17530,7 +18172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 73
 --- !u!65 &1588042355
 BoxCollider:
@@ -17640,7 +18281,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 93
 --- !u!65 &1592263750
 BoxCollider:
@@ -17750,7 +18390,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 41
 --- !u!65 &1592732475
 BoxCollider:
@@ -17860,7 +18499,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 42
 --- !u!65 &1598584651
 BoxCollider:
@@ -17970,7 +18608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 72
 --- !u!65 &1628917204
 BoxCollider:
@@ -18080,7 +18717,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 19
 --- !u!65 &1684459232
 BoxCollider:
@@ -18247,7 +18883,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 33
 --- !u!65 &1691863951
 BoxCollider:
@@ -18357,7 +18992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 32
 --- !u!65 &1704964321
 BoxCollider:
@@ -18467,7 +19101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 14
 --- !u!65 &1710576355
 BoxCollider:
@@ -18577,7 +19210,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 77
 --- !u!65 &1727859579
 BoxCollider:
@@ -18687,7 +19319,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 43
 --- !u!65 &1729754100
 BoxCollider:
@@ -18797,7 +19428,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 38
 --- !u!65 &1731496407
 BoxCollider:
@@ -18907,7 +19537,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 40
 --- !u!65 &1737209750
 BoxCollider:
@@ -19017,7 +19646,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 48
 --- !u!65 &1742856434
 BoxCollider:
@@ -19127,7 +19755,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 36
 --- !u!65 &1742916614
 BoxCollider:
@@ -19237,7 +19864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 26
 --- !u!65 &1752794501
 BoxCollider:
@@ -19347,7 +19973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 4
 --- !u!65 &1759859166
 BoxCollider:
@@ -19457,7 +20082,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 28
 --- !u!65 &1791938369
 BoxCollider:
@@ -19567,7 +20191,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 33
 --- !u!65 &1798238161
 BoxCollider:
@@ -19677,7 +20300,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 85
 --- !u!65 &1814308536
 BoxCollider:
@@ -19787,7 +20409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 94
 --- !u!65 &1821855863
 BoxCollider:
@@ -19897,7 +20518,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 92
 --- !u!65 &1849147269
 BoxCollider:
@@ -20007,7 +20627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 27
 --- !u!65 &1856364631
 BoxCollider:
@@ -20117,7 +20736,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 83
 --- !u!65 &1860343231
 BoxCollider:
@@ -20227,7 +20845,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 60
 --- !u!65 &1862883156
 BoxCollider:
@@ -20337,7 +20954,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 19
 --- !u!65 &1867074370
 BoxCollider:
@@ -20447,7 +21063,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 85
 --- !u!65 &1874196914
 BoxCollider:
@@ -20557,7 +21172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 43
 --- !u!65 &1882117613
 BoxCollider:
@@ -20667,7 +21281,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 80
 --- !u!65 &1894897106
 BoxCollider:
@@ -20777,7 +21390,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 91
 --- !u!65 &1915335339
 BoxCollider:
@@ -20887,7 +21499,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 71
 --- !u!65 &1921716656
 BoxCollider:
@@ -20997,7 +21608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 12
 --- !u!65 &1940158093
 BoxCollider:
@@ -21061,6 +21671,140 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1940158090}
   m_Mesh: {fileID: 4300000, guid: c2cf9f73c2c052c47baf679fa7478662, type: 3}
+--- !u!1 &1949490301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1949490302}
+  - component: {fileID: 1949490304}
+  - component: {fileID: 1949490303}
+  m_Layer: 5
+  m_Name: Content
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1949490302
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949490301}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1445245860}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -75, y: 0}
+  m_SizeDelta: {x: 150, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1949490303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949490301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 0
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1949490304
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949490301}
+  m_CullTransparentMesh: 1
 --- !u!1 &1955376122
 GameObject:
   m_ObjectHideFlags: 0
@@ -21107,7 +21851,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 31
 --- !u!65 &1955376125
 BoxCollider:
@@ -21217,7 +21960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 46
 --- !u!65 &1960041007
 BoxCollider:
@@ -21327,7 +22069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 50
 --- !u!65 &1987634529
 BoxCollider:
@@ -21437,7 +22178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 49
 --- !u!65 &1996852531
 BoxCollider:
@@ -21547,7 +22287,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 90
 --- !u!65 &2012743963
 BoxCollider:
@@ -21657,7 +22396,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 29
 --- !u!65 &2015534704
 BoxCollider:
@@ -21767,7 +22505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 86
 --- !u!65 &2018935846
 BoxCollider:
@@ -21877,7 +22614,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 62
 --- !u!65 &2019777309
 BoxCollider:
@@ -21987,7 +22723,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 9
 --- !u!65 &2057423596
 BoxCollider:
@@ -22097,7 +22832,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 41
 --- !u!65 &2061296091
 BoxCollider:
@@ -22207,7 +22941,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 81
 --- !u!65 &2071721927
 BoxCollider:
@@ -22317,7 +23050,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 18
 --- !u!65 &2081391955
 BoxCollider:
@@ -22427,7 +23159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 82
 --- !u!65 &2082143865
 BoxCollider:
@@ -22537,7 +23268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 2
 --- !u!65 &2089753025
 BoxCollider:
@@ -22647,7 +23377,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 82
 --- !u!65 &2104228020
 BoxCollider:
@@ -22757,7 +23486,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 0
 --- !u!65 &2117756316
 BoxCollider:
@@ -22867,7 +23595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 36
 --- !u!65 &2119798715
 BoxCollider:
@@ -23038,7 +23765,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 54
 --- !u!65 &2126065470
 BoxCollider:
@@ -23148,7 +23874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 15
 --- !u!65 &2128397517
 BoxCollider:
@@ -23258,7 +23983,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ce46b11807e9c84e9cfc797f2e49026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TowerSource: {fileID: 1326093064322132, guid: a425124410f363a43adb6788601cc3e0, type: 3}
   TileNumber: 95
 --- !u!65 &2133534180
 BoxCollider:

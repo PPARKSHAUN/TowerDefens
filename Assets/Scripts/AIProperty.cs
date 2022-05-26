@@ -5,6 +5,8 @@ using UnityEngine.AI;
 
 public class AIProperty : MonoBehaviour
 {
+
+    #region Component
     NavMeshAgent _navAgent = null;
     protected NavMeshAgent myNavAgent
     {
@@ -18,7 +20,7 @@ public class AIProperty : MonoBehaviour
             return _navAgent;
         }
     }
-
+    float? CurHP = null;
     Animator _anim = null;
     protected Animator myAnim
     {
@@ -30,5 +32,32 @@ public class AIProperty : MonoBehaviour
             }
             return _anim;
         }
+    }
+    #endregion
+    [SerializeField]MonsterData _data = null;
+    protected MonsterData myData
+    {
+        get => _data;
+        /*
+          get
+        {
+        return _data;
+        } 이걸 생략한게 위에거 
+        */
+        
+    }
+    protected bool UpdateHP(float data)
+    {
+        if(CurHP == null)
+        {
+            CurHP = myData.GetMaxHP();
+        }
+        CurHP += data;
+        if (CurHP <= 0.0f)
+        {
+            CurHP = 0.0f;
+            return false;
+        }
+        return true;
     }
 }

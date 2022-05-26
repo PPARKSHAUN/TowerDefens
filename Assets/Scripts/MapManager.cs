@@ -30,10 +30,10 @@ public class MapManager : MonoBehaviour
         
     }
 
-    public void CreateTower(Transform tr)
+    public void CreateTower(TowerType tower,Transform tr)
     {
         
-        tr.transform.GetComponent<Tile>()?.CreateTower();
+        tr.transform.GetComponent<Tile>()?.CreateTower(tower);
     }
 
     public void DestroyTower(Transform tr)

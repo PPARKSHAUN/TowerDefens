@@ -91,11 +91,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4939996705135754}
-  - component: {fileID: -4886575709092140897}
+  - component: {fileID: 2587807245739183621}
   - component: {fileID: 7510820419626385740}
   - component: {fileID: 3116650389104254103}
   m_Layer: 0
-  m_Name: Turret Tower 01
+  m_Name: NomalTower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -117,7 +117,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &-4886575709092140897
+--- !u!114 &2587807245739183621
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -126,12 +126,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1326093064322132}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5e748e45e53b3a40866ceb3d7e45245, type: 3}
+  m_Script: {fileID: 11500000, guid: b8e6a37bbec8c1249a2e9bcf33db6b8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   myState: 0
   _target: {fileID: 0}
   Monsters: []
+  myData: {fileID: 11400000, guid: 077ba0ab7140ccc489a79536d8fc2a74, type: 2}
   myMuzzle: {fileID: 7754144701338769478}
   myTurret: {fileID: 7853209404871887600}
   BulletSource: {fileID: 7644630309466652128, guid: 85c0ccdf0fd97e4409a8e5b5d4071c54, type: 3}

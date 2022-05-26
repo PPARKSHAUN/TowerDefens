@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class Tile : MonoBehaviour
 {
-    public GameObject TowerSource = null;
+    
     [SerializeField]int TileNumber = 0;
     Tower myTower = null;
     UnityAction TestTowerDestory = null;
@@ -15,7 +15,7 @@ public class Tile : MonoBehaviour
         this.transform.localPosition = pos;
     }
     // Start is called before the first frame update
-   public void CreateTower()
+   public void CreateTower(TowerType tower)
     {
         if (myTower != null) return;
         Vector3 pos = this.transform.position;
@@ -23,7 +23,7 @@ public class Tile : MonoBehaviour
         TestMapmanager.Ins.CreateTestTower(pos, (_destroy) => 
         {
             TestTowerDestory = _destroy;
-            myTower = Instantiate(TowerSource, this.transform).GetComponent<Tower>();
+            myTower = Instantiate(ResourceManager.Inst.TowerSources[(int)tower], this.transform).GetComponent<Tower>();
             });
         
     }

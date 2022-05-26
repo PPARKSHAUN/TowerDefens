@@ -2,11 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
+public class Bullet : Projectile
 {
-    public GameObject effectSource;
-    bool Move = false;
-    float Speed = 10.0f;
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -27,19 +25,22 @@ public class Bullet : MonoBehaviour
             float delta = Speed * Time.fixedDeltaTime;
             if (Physics.Raycast(ray, out RaycastHit hit, delta, 1 << LayerMask.NameToLayer("Monster")))
             {
-                OnAttack(hit.point);
+                OnAttack(hit.transform.GetComponent<Monster>(),hit.point);
             }
 
             this.transform.Translate(this.transform.forward * Speed * Time.deltaTime, Space.World);
         }
     }
 
-    public void OnFire()
+    public override void OnFire(float damge,Transform target)
     {
         Move = true;
+        Damage = damge;
     }
-    void OnAttack(Vector3 hitpos)
+    void OnAttack(Monster mon,Vector3 hitpos)
     {
+        if (!mon.IsLive()) return;
+        mon?.OnDamage(Damage);
         Instantiate(effectSource, hitpos, Quaternion.identity);
         Destroy(this.gameObject);
     }
